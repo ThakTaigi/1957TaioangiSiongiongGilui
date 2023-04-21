@@ -1,5 +1,3 @@
-# scannedImgViewer
+# 1957 台灣語常用語彙
 
-**------------------------------------ Tng teh khí ------------------------------------**
-
-[Soat-bêng 說明](https://thak.taigi.info/scannedImgViewer/soatbeng/)
+[Soat-bêng 說明](https://thak.taigi.info/1957TaioangiSiongiongGilui/soatbeng/)
