@@ -2,11 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="shortcut icon" media="(prefers-color-scheme: light)" type="image/png" href="{{ "/assets/images/favicon-light.ico" | relative_url }}">
+  <link rel="shortcut icon" media="(prefers-color-scheme: dark)" type="image/png" href="{{ "/assets/images/favicon-dark.ico" | relative_url }}">
   
   <title>{{ site.title | escape }}・ChhoeTaigi</title>
   {%- seo title=false -%}
   <meta property="og:title" content="{{ site.title | escape }}・ChhoeTaigi" />
   <meta property="twitter:title" content="{{ site.title | escape }}・ChhoeTaigi" />
+
+  <meta itemprop="image" content="{{ "/assets/images/preview.jpg" | relative_url }}" />
+  <meta property="og:image" content="{{ "/assets/images/preview.jpg" | relative_url }}" />
+  <meta name="twitter:image" content="{{ "/assets/images/preview.jpg" | relative_url }}" />
 
   <link rel="stylesheet" href="{{ "/assets/stylesheets/styles.css" | relative_url }}">
   {%- feed_meta -%}
