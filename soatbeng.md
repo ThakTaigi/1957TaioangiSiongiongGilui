@@ -14,7 +14,7 @@ permalink: /soatbeng/
 
 ## Seng-bêng 聲明
 - 原冊著作權屬原著作者 王育德（Ông Io̍k-tek）先生
-- 王育德（Ông Io̍k-tek）先生ê家屬 王明理（Ō Meiri）女士kap 近藤綾（Kondō Aya）女士同意用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} 公開授權，將chit本辭典公開奉獻hō͘社會
+- 王育德（Ông Io̍k-tek）先生ê家屬 王明理（Ō Meiri）女士kap 近藤綾（Kondō Aya）女士同意用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} 公開授權（[授權書](./chheh_chuliau/SiūKhoânSu.pdf){:target="_blank"}），將chit本辭典公開奉獻hō͘社會。
 - 網站內底說明文字用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} 授權
 - 網站看圖ê程式 [OpenSeadragon](https://openseadragon.github.io/){:target="_blank"} 用 [New BSD License](https://openseadragon.github.io/license/){:target="_blank"} 授權
 - 網站字骨（font）[Iân-sui](https://github.com/ButTaiwan/iansui){:target="_blank"} 用 [SIL Open Font License 1.1](https://github.com/ButTaiwan/iansui#%E9%96%8B%E6%BA%90%E6%8E%88%E6%AC%8A%E8%A6%8F%E5%AE%9A){:target="_blank"} 授權
